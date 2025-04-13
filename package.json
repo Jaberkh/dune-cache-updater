@@ -1,0 +1,13 @@
+{
+    "name": "dune-cache-updater",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "update-dune-cache.js",
+    "scripts": {
+      "start": "node update-dune-cache.js"
+    },
+    "dependencies": {
+      "node-fetch": "^3.2.0"
+    }
+  }
+  
